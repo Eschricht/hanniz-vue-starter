@@ -2,6 +2,14 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## How to use
+Simply clone the repository or use [degit](https://github.com/Rich-Harris/degit)
+Using degit:
+```
+degit github:Eschricht/hanniz-vue-starter.git
+```
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
