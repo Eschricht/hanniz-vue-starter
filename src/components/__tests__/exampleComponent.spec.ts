@@ -4,8 +4,7 @@ import ExampleComponent from '@/components/ExampleComponent.vue';
 
 describe('ExampleComponent', () => {
   it('Should have message \'test\'', () => {
-    // TODO: Need the 'as typeof' because of volar / vue-tsc...
-    const wrapper = mount(ExampleComponent as typeof ExampleComponent['__VLS_raw'], {
+    const wrapper = mount(ExampleComponent, {
       props: { msg: 'test' },
     });
     expect(wrapper.find('p').text()).to.equal('test');
