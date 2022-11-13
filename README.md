@@ -2,6 +2,15 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+Includes:
+- Vite
+- Typescript
+- UnoCSS (and some plugins / config)
+- Vueuse
+- ESLint (and some plugins / config)
+- Cypress
+- Vitest
+
 ## How to use
 Simply clone the repository or use [degit](https://github.com/Rich-Harris/degit)
 
