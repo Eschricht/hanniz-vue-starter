@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@fontsource/jost": "^4.5.12",
-    "@fontsource/overpass": "^4.5.10",
     "@vueuse/core": "^9.5.0",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
