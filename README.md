@@ -4,7 +4,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## How to use
 Simply clone the repository or use [degit](https://github.com/Rich-Harris/degit)
-Using degit:
+
+###Using degit:
 ```
 degit github:Eschricht/hanniz-vue-starter.git
 ```
