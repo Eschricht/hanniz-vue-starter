@@ -29,16 +29,6 @@ export default <
     return context as ReturnType<T>;
   };
 
-  // const ContextProviderComponent = defineComponent({
-  //   setup(_, { slots }) {
-  //     const context = useProvideContext();
-
-  //     return () => slots.default?.({
-  //       context,
-  //     });
-  //   },
-  // });
-
   return {
     SYMBOL,
     useInjectContext,
